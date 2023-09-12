@@ -203,7 +203,7 @@
   height: 60px;
   background: #2B2B2B !important;
   border-radius: 20px !important;
-  margin-left: 270px;
+  
   padding: 0px 50px;
   border-color: #A259FF!important;
   align-items: center;
@@ -328,7 +328,7 @@
   font-style: normal;
   font-weight: 600;
   line-height: 140%; /* 22.4px */
-  margin-left: 600px;
+  
   background-color: #2B2B2B;
  
 }
